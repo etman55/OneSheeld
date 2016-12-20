@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.at_et.onesheeld.Ativities.MainActivity">
+
+    <Button
+        android:id="@+id/details_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Details Screen" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/details_activity"
+        android:id="@+id/sensors_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

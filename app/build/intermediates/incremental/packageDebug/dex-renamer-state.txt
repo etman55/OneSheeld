@@ -1,0 +1,7 @@
+#Tue Dec 20 14:03:30 EET 2016
+base.0=/home/at-et/AndroidStudioProjects/OneSheeld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c68d357d65c5590f2727fbaf66e07f5043dd9622
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/at-et/AndroidStudioProjects/OneSheeld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39805a5d337bd0fe305425f0fe78d35268b6c1f6/classes.dex
+base.1=/home/at-et/AndroidStudioProjects/OneSheeld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39805a5d337bd0fe305425f0fe78d35268b6c1f6
+file.0=/home/at-et/AndroidStudioProjects/OneSheeld/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c68d357d65c5590f2727fbaf66e07f5043dd9622/classes.dex
